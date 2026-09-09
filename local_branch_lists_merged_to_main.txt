@@ -1,0 +1,24 @@
+
+######## the following local branches merge to main branch "
+agile@DESKTOP-7QPO6HK MINGW64 ~/NJIT/IS_601/Assignment1/Linux_and_GIT_Command_Cheat_Sheet (main)
+$ git  branch
+  git_command_add
+  git_command_checkout
+  git_command_clone
+  git_command_init
+  git_command_log
+  git_command_merge
+  git_command_pull
+  git_command_push
+  git_commnad_status
+  linux_command_cat
+  linux_command_chmod
+  linux_command_chown
+  linux_command_cp
+  linux_command_head
+  linux_command_mkdir
+  linux_command_mv
+  linux_command_rm
+  linux_command_whoami
+  * main
+
