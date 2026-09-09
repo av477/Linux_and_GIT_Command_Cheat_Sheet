@@ -40,3 +40,5 @@ rm : The rm command in Linux is used to delete files and directories permanently
 mkdir : The mkdir command in Linux stands for “make directory” and is used to create new folders quickly and efficiently from the terminal.
 
 chmod : The chmod (change mode) command in Linux/UNIX is used to modify file and directory permissions.
+
+chown : The chown command in Linux allows modifying the ownership of files or directories. It can assign a new user, group, or both, either individually or simultaneously.
