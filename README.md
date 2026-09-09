@@ -38,3 +38,5 @@ head : The head command in Linux is used to display the first few lines of one o
 rm : The rm command in Linux is used to delete files and directories permanently from the file system. It removes data immediately without sending it to any recycle bin, so deleted files cannot be recovered.
 
 mkdir : The mkdir command in Linux stands for “make directory” and is used to create new folders quickly and efficiently from the terminal.
+
+chmod : The chmod (change mode) command in Linux/UNIX is used to modify file and directory permissions.
