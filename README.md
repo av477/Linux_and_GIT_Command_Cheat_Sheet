@@ -1,10 +1,6 @@
-###############################################
-Linux and GIT Command Cheat Sheet For Beginner
-###############################################
+################  Linux and GIT Command Cheat Sheet For Beginner  ############################
 
-################
-git commands
-################
+################  git commands  ################
 
 git status : show modified files in working directory, staged for your next commit.
 
@@ -25,9 +21,7 @@ git add : git add command is used to move changes from your working directory in
 git init :  git init command is used to initialize a brand-new, empty Git repository or reinitialize an existing one within a project folder.
 
 
-#########################
-Linux Commands
-#########################
+#################### Linux Commands ##################
 
 cat : The cat (concatenate) command in Linux is used to view, create, and combine file contents directly from the terminal.
 
@@ -42,3 +36,5 @@ mkdir : The mkdir command in Linux stands for “make directory” and is used t
 chmod : The chmod (change mode) command in Linux/UNIX is used to modify file and directory permissions.
 
 chown : The chown command in Linux allows modifying the ownership of files or directories. It can assign a new user, group, or both, either individually or simultaneously.
+
+whoami : The whoami command to display the current Username in Linux.
