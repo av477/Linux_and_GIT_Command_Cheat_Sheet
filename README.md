@@ -3,6 +3,7 @@ Linux and GIT Command Cheat Sheet For Beginner
 
 ################
 git commands
+################
 
 git status : show modified files in working directory, staged for your next commit.
 
@@ -21,3 +22,10 @@ git merge : git merge command combines changes from one Git branch into your cur
 git add : git add command is used to move changes from your working directory into the staging area, preparing them to be included in the next commit.
 
 git init :  git init command is used to initialize a brand-new, empty Git repository or reinitialize an existing one within a project folder.
+
+
+#########################
+Linux Commands
+#########################
+
+cat : The cat (concatenate) command in Linux is used to view, create, and combine file contents directly from the terminal.
