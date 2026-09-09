@@ -1,5 +1,6 @@
-##############################################
+###############################################
 Linux and GIT Command Cheat Sheet For Beginner
+###############################################
 
 ################
 git commands
@@ -34,4 +35,4 @@ cp : The cp (copy) command in Linux is used to duplicate files or directories fr
 
 head : The head command in Linux is used to display the first few lines of one or more text files directly in the terminal.
 
-
+rm : The rm command in Linux is used to delete files and directories permanently from the file system. It removes data immediately without sending it to any recycle bin, so deleted files cannot be recovered.
