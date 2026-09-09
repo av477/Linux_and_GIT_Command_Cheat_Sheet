@@ -15,3 +15,5 @@ git push : git push command uploads your local repository commits to a remote re
 git pull : git pull command is used to download changes from a remote repository and immediately integrate them into your current local branch.
 
 git log: git log command displays the chronological history of commits in a Git repository.
+
+git merge : git merge command combines changes from one Git branch into your current active branch.
