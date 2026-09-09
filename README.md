@@ -17,3 +17,5 @@ git pull : git pull command is used to download changes from a remote repository
 git log: git log command displays the chronological history of commits in a Git repository.
 
 git merge : git merge command combines changes from one Git branch into your current active branch.
+
+git add : git add command is used to move changes from your working directory into the staging area, preparing them to be included in the next commit.
