@@ -31,3 +31,7 @@ Linux Commands
 cat : The cat (concatenate) command in Linux is used to view, create, and combine file contents directly from the terminal.
 
 cp : The cp (copy) command in Linux is used to duplicate files or directories from one location to another within the file system.
+
+head : The head command in Linux is used to display the first few lines of one or more text files directly in the terminal.
+
+
